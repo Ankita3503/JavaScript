@@ -1,11 +1,11 @@
 var a=10
 var a="Ankita"
 console.log(a)   
-// As we know that var  values can be updated and re-assigned too
+// As we know that var  values can be  re-assigned  and re-declared 
 
 let b=69
 {
-let b="A"       
+let b="A"   // re-assigning value       
 }
 console.log(b)
 
